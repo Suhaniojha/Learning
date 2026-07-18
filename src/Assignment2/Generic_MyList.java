@@ -41,7 +41,7 @@ public class Generic_MyList<T> {
     public void removeByIndex(int index){
        checkIndex(index);
 
-       for(int i = index; i<size -1; i++){
+       for(int i = index; i<size-1; i++){
         arr[i] = arr[i+1];
        }
        size--;
