@@ -17,7 +17,7 @@ public class Solution {
         int N = Integer.parseInt(bufferedReader.readLine().trim());
 
         for(int i = 1; i<11; i++){
-            System.out.println("2 x " + i +" = " +   N*i);
+            System.out.println(N + " x " + i +" = " +   N*i);
         }
         bufferedReader.close();
     }
