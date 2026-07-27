@@ -1,0 +1,1 @@
+const list =[["chocolate",15],["Clips",25],["Chips",15],["Dairy Milk", 10],["Maggie",14]];
