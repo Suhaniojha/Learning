@@ -1,3 +1,3 @@
 var myFirstName = "Suhani";
 
-var lastName = "Ojha";
+var MyLastName = "Ojha";
