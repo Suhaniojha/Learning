@@ -1,4 +1,6 @@
-public class Member extends Person{
+package BE_Training;
+
+public class Member extends Person {
     protected int booksIssued;
 
     public Member(String name, int id) {

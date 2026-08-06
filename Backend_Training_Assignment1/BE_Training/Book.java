@@ -1,3 +1,4 @@
+package BE_Training;
 public class Book {
     String title;
     String author;
@@ -15,3 +16,4 @@ public class Book {
                 "\nAvailable: " + available;
     }
 }
+

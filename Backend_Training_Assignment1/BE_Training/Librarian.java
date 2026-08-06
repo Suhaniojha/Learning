@@ -1,4 +1,5 @@
-public class Librarian extends Person{
+package BE_Training;
+public class Librarian extends Person {
 
 
     public Librarian(String name, int id) {
@@ -11,6 +12,5 @@ public class Librarian extends Person{
         System.out.println(name);
         System.out.println(id);
     }
-
 
 }

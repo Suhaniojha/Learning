@@ -1,3 +1,5 @@
+package BE_Training;
+
 abstract class Person {
     String name;
     int id;
